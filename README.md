@@ -14,16 +14,16 @@ This repository houses the Heroku container for running api.berkshelf.com
 2. Make sure your Heroku account is verified
 3. Setup a vulcan build server
 
-    $ vulcan create vulcan-<your_name>
+        $ vulcan create vulcan-<your_name>
 
 4. Download and extract the library you want to compile
 
-    $ curl -O http://www.libarchive.org/downloads/libarchive-3.1.2.tar.gz
-    $ tar xzvf libarchive-3.1.2.tar.gz
+        $ curl -O http://www.libarchive.org/downloads/libarchive-3.1.2.tar.gz
+        $ tar xzvf libarchive-3.1.2.tar.gz
 
 5. Build and output the library to this project
 
-    $ vulcan build -s ./libarchive-3.1.2
+        $ vulcan build -s ./libarchive-3.1.2
 
 6. Download the archive containing the compiled library in the URL returned
 7. Extract the contents of the archive into a sub directory of the `vendor` directory in this project

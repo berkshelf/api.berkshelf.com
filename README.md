@@ -8,6 +8,10 @@ This repository houses the Heroku container for running api.berkshelf.com
 2. Setup the [Heroku Toolbelt](https://toolbelt.heroku.com)
 3. Request collaborator access from [Jamie Winsor](reset@riotgames.com)
 
+## Deploying
+
+    $ git push heroku master
+
 ## Compiling libraries
 
 1. Download [Vulcan](https://github.com/heroku/vulcan)

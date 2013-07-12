@@ -6,7 +6,7 @@ This repository houses the Heroku container for running api.berkshelf.com
 
 1. Register for an account on Heroku
 2. Setup the [Heroku Toolbelt](https://toolbelt.heroku.com)
-3. Request collaborator access from [Jamie Winsor](reset@riotgames.com)
+3. Request collaborator access from [Jamie Winsor](jamie@vialstudios.com)
 
 ## Deploying
 
@@ -46,4 +46,4 @@ Check the previous config to make sure you are building the path and not destroy
 
 # Authors
 
-* Jamie Winsor (<reset@riotgames.com>)
+* Jamie Winsor (<jamie@vialstudios.com>)

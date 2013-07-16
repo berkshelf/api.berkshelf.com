@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/RiotGames/berkshelf-api.git
-  revision: 8efb91532ada2e2d9c71081f001805404f240dbc
+  revision: fc0fc85026f4a640b1601f839c4292bdc6ce2df9
   specs:
     berkshelf-api (0.1.0)
       archive (= 0.0.2)
@@ -133,14 +133,14 @@ GEM
       nokogiri (>= 1.4.0)
       nori (~> 1.0)
       wasabi (~> 1.0)
-    solve (0.6.0)
+    solve (0.6.1)
     thread_safe (0.1.0)
       atomic
     timers (1.1.0)
     tzinfo (0.3.37)
     uuidtools (2.1.4)
-    varia_model (0.1.0)
-      buff-extensions (~> 0.1)
+    varia_model (0.1.1)
+      buff-extensions (~> 0.2)
       hashie (>= 2.0.2)
     virtus (0.5.5)
       backports (~> 3.3)

@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/RiotGames/berkshelf-api.git
-  revision: d99998d40ab35ff08c5869779c682b4509ef6333
+  revision: 1c985a4cd5e4ba7780b691d2d0c6d7b7e414cdf8
   specs:
     berkshelf-api (0.2.0)
       archive (= 0.0.2)
@@ -30,7 +30,7 @@ GEM
       ffi (~> 1.8.1)
     atomic (1.1.14)
     atomic (1.1.14-java)
-    backports (3.3.3)
+    backports (3.3.4)
     buff-config (0.4.0)
       buff-extensions (~> 0.3)
       varia_model (~> 0.1)

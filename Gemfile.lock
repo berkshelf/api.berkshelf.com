@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/RiotGames/berkshelf-api.git
-  revision: 1c985a4cd5e4ba7780b691d2d0c6d7b7e414cdf8
+  revision: 4135ed03c2725f1b0d486e859583d813d58b117e
   specs:
     berkshelf-api (0.2.0)
       archive (= 0.0.2)

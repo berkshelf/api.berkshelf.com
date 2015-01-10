@@ -11,6 +11,7 @@ This repository houses the Heroku container for running api.berkshelf.com
 ## Deploying
 
     $ git remote add heroku git@heroku.com:berkshelf-api.git
+    $ heroku stack:set cedar
     $ git push heroku master
 
 ## Compiling libraries
